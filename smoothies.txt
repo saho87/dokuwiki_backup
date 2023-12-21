@@ -1,0 +1,7 @@
+=====Smoothies=====
+  * [[namespace:Kurkuma-Mango-Smoothie#Kurkuma-Mango-Smoothie|Kurkuma-Mango-Smoothie]]
+  * [[namespace:Beeren-Mandel-Smoothie#Beeren-Mandel-Smoothie|Beeren-Mandel-Smoothie]]
+  * [[namespace:Quark-Ingwer-Apfel-Smoothie#Quark-Ingwer-Apfel-Smoothie|Quark-Ingwer-Apfel-Smoothie]]
+  * [[namespace:Smoothie mit Mango und Buttermilch#Smoothie#Mango#Buttermilch|Smoothie mit Mango und Buttermilch]]
+  * [[namespace:Smoothie mit Ananas und Kokos#Smoothie#Ananas#Kokos|Smoothie mit Ananas und Kokos]]
+

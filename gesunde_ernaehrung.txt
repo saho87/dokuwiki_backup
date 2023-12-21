@@ -1,0 +1,61 @@
+====== Gesunde Ernährung ======
+
+
+===== Plan Abnehmen =====
+
+  *1,5 kg Körpergewicht = 3500 kcal
+  *jeden Tag 500 kcal weniger
+  *Ziel: **2000 kcal/Tag** bei Gesamtumsatz von 2500 kcal/Tag
+	
+===== Regeln =====
+
+  *5 Mahlzeiten/Tag --> alle 2,5 bis 3,5 Stunden
+  *regelmäßiges, kurzes und intensives Krafttraining um Muskeln aufzubauen -->größerer Grundumsatz
+  *1,5 g Eiweis/0,5 kg Eigengewicht (=200-240 g Eiweiß pro Tag), den Rest 50:50 auf ungesättigte Fette und Kohlenhydrate mit niedrigem glykämischen Index aufteilen
+  *nicht hungern aber auch nicht zuviel Essen
+  *2 - 2,5 kg Wasser trinken
+
+
+===== Allgemein =====
+  *empfohlene Nahrungsmittel: Gemüse, Früchte, Nüsse, Samen, Fleisch (am besten Geflügel), Eier, Fisch
+  *Makronährstoffe: Eiweiß, Fette Kohlenhydrate
+
+===== Kohlenhydrate=====
+  *4 kcal/g
+  *einfache KH-->wenig Zuckereinheiten in Molekülen
+  *komplexe KH-->mehrere Zuckereinheiten in Molekülen
+  *werden in Glukose umgewandelt, bevor in Körper transportiert
+  *schnelle Aufnahme von Glukose verursacht hohe Ausschüttung von Insulin (diese signalisiert Körper, Fett zu speicher, beseitigt Glukose aus Blut)-->es folgen Müdigkeit und Heißhunger auf mehr KH -->bei Lebensmittel mit hohen glykämischen Index
+  *langsame Aufnahme von Glukose (bzw. Umwandlung in Glukose)-->Glukose wird gleich verbrannt, nicht gespeichert -->bei Lebensmittel mit niedrigem glykämischen Index
+  *Lebensmittel mit **niedrigen glykämischen Index** und **hohem Nährwert** werden empfohlen
+  *ursprüngliche, unverarbeitete Lebensmittel wie Früchte, gedünstetes Gemüse, Milch und Vollkornprodukte werden empfohlen-->**fettarme Eiweisquellen**
+
+===== Fette=====
+  *9 kcal/g
+  *gesättigte-->ungesund-->lassen Cholesterin- und Triglyceridspiegel ansteigen-->in Tierfetten, Margarine, Fischstäbchen, Chips, Bratkartoffeln, Popkorn (=Fastfood)
+  *ungesättigte-->gesund-->Nüsse, Pflanzenöle (nicht gehärtet), Soja, Oliven, Fisch, Leinöl
+  *sollten ca. 20 - 35 % der Kalorienaufnahme entsprechen
+
+===== Proteine=====
+  *4kcal/g
+  *sättigen schneller als Fette und Eiweiße
+  *in Geflügel, Fisch, Milch, Soja, Tofu, Bohnen und Eiern
+  *werden in Aminosäuren umgewandelt, diese stellen Bausteine zur Reparatur und Regeneration des Körpers dar-->auch zum Muskelaufbau
+
+===== Wasser =====
+  *2- 2,5 l Wasser pro Tag
+  *wenn man durstig ist, ist es schon zu spät
+
+===== Grundumsatz berechnen=====
+  *Männer: 10 * Gewicht(kg)+ 6,25 * Größe(cm) - 5 * Alter + 5
+  *Frauen: 10 * Gewicht(kg)+ 6,25 * Größe(cm) - 5 * Alter - 161
+   dieser Grundumsatz ist mit folgenden  Faktoren zu multiplizieren:
+  *1,2 = sitzende Tätigkeit (keine oder wenig Bewegung)
+  *1,375 = leichte Aktivität (leichte Bewegung, Sport ein bis drei Tage pro Woche)
+  *1,55 = moderate Aktivität (moderate Bewegung, Sport drei bis fünf Tage pro Woche)
+  *1,725 = hohe Aktivität (intensive Bewegung, Sport sechs bis sieben Tage pro Woche)
+  *1,9 = sehr hohe Aktivität (sehr intensive Bewegung, Sport und Beruf mit körperlicher Tätigkeit)
+
+
+  *Sascha: 1838
+  *Jule:
